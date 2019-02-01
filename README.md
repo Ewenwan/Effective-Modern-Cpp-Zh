@@ -5,9 +5,12 @@ Effective Modern C++
 
 Effective Modern C++ 中文翻译，欢迎大家提出翻译中的错误和用词不当的地方。
 
+[《Effective Modern C++》翻译 - 2018.5更新中 其他](https://github.com/Ewenwan/EffectiveModernCppChinese)
+
 ![Effective Modern C++](book.jpg)
 
-##代码使用说明
+
+## 代码使用说明
 
 使用gitbook作为静态编译输出，需要安装`Node.js`，然后从`npm`安装gitbook
 
